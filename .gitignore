@@ -140,3 +140,4 @@ cython_debug/
 Pipfile
 Pipfile.lock
 
+.DS_Store
